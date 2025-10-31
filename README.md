@@ -1,16 +1,55 @@
-# bcopichincha
+# Hola, soy Fernando Santacruz 👋  
+### Desarrollador de Aplicaciones Móviles y Software
 
-A new Flutter project.
+Apasionado por construir soluciones tecnológicas que aporten valor real.  
+Especializado en desarrollo móvil nativo con Android y Firebase, y con experiencia en creación de sistemas de escritorio y sitios web funcionales.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### 🚀 Sobre mí
+- Desarrollo apps móviles con enfoque en UX y optimización
+- Experiencia en Android Studio, Firebase y gestión de datos
+- Interés por cloud computing, backend y sistemas inteligentes
+- Siempre aprendiendo y desarrollando proyectos personales
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🛠️ Tecnologías que uso
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Móvil**
+- Android Studio | Java | Kotlin | Dart | Flutter | Firebase
+
+**Backend & BD**
+- Firebase | SQL
+
+**Escritorio**
+- Visual Studio | C# | Windows Forms
+
+**Web**
+- HTML | CSS | JavaScript | Bootstrap
+
+---
+
+### 📱 Proyecto destacado
+**Tecno App**  
+Aplicación para estudiantes del Instituto Superior Tecnológico Tecnoecuatoriano:  
+QR, notificaciones push, almacenamiento local, integración con servicios educativos, gestión de notas.
+
+> Desarrollada en Android Studio utilizando Java y Firebase.
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Nandz_04&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandz_04&layout=compact&theme=default)
+
+---
+
+### 📫 Contacto
+- Email: **tu-correo@gmail.com**
+- LinkedIn: linkedin.com/in/tu-usuario *(opcional)*
+
+---
+
+> _"El software es un gran poder — y está en nosotros usarlo para resolver problemas reales."_ 
