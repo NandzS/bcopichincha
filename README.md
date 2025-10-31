@@ -1,55 +1,37 @@
-# Hola, soy Fernando Santacruz 👋  
-### Desarrollador de Aplicaciones Móviles y Software
-
-Apasionado por construir soluciones tecnológicas que aporten valor real.  
-Especializado en desarrollo móvil nativo con Android y Firebase, y con experiencia en creación de sistemas de escritorio y sitios web funcionales.
+# Gabriel Fernando Santacruz Soto  
+Tecnólogo Superior en Desarrollo de Software
 
 ---
 
-### 🚀 Sobre mí
-- Desarrollo apps móviles con enfoque en UX y optimización
-- Experiencia en Android Studio, Firebase y gestión de datos
+## Sobre mí
+- Desarrollo aplicaciones móviles con enfoque en experiencia de usuario y optimización
+- Experiencia en Android Studio, Flutter, Firebase y gestión de bases de datos
 - Interés por cloud computing, backend y sistemas inteligentes
 - Siempre aprendiendo y desarrollando proyectos personales
 
 ---
 
-### 🛠️ Tecnologías que uso
+## Tecnologías que uso
 
-**Móvil**
-- Android Studio | Java | Kotlin | Dart | Flutter | Firebase
-
-**Backend & BD**
-- Firebase | SQL
-
-**Escritorio**
-- Visual Studio | C# | Windows Forms
-
-**Web**
-- HTML | CSS | JavaScript | Bootstrap
+ **Desarrollo móvil:** Android Studio, Java, Kotlin, Firebase.
+ **Desarrollo web:** HTML, CSS, JavaScript, Bootstrap, WordPress.
+ **Back-End y APIs:** Java, C#, Firebase, MySQL, SQL Server, MongoDB, Postman.
+ **Desarrollo de escritorio:** Visual Studio, Windows Forms.
+ **Herramientas:** Visual Studio Code, NetBeans y Postman.
+ **Ofimática:** Microsoft Word,  Microsoft Excel y Microsoft PowerPoint.
 
 ---
 
-### 📱 Proyecto destacado
+## Proyectos ( Los puedes encontrar en mis Repositorios)
 **Tecno App**  
 Aplicación para estudiantes del Instituto Superior Tecnológico Tecnoecuatoriano:  
-QR, notificaciones push, almacenamiento local, integración con servicios educativos, gestión de notas.
-
-> Desarrollada en Android Studio utilizando Java y Firebase.
-
----
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Nandz_04&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandz_04&layout=compact&theme=default)
+QR, notificaciones push, almacenamiento local, integración con servicios educativos, gestión de notas.  
+Desarrollada en Android Studio utilizando Java y Firebase.
 
 ---
 
-### 📫 Contacto
-- Email: **tu-correo@gmail.com**
-- LinkedIn: linkedin.com/in/tu-usuario *(opcional)*
+## Contacto
+- Email: fernandosantacruz24.11@gmail.com
+- LinkedIn: www.linkedin.com/in/fernando-santacruz-475a67282
 
 ---
-
-> _"El software es un gran poder — y está en nosotros usarlo para resolver problemas reales."_ 
